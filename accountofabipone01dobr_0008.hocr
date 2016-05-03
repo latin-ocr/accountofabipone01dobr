@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./accountofabipone01dobr_0008.png"; bbox 0 0 1752 3202; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 854 2780 927 2785">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 854 2780 927 2785">
+     <span class='ocr_line' id='line_1_1' title="bbox 854 2780 927 2785"><span class='ocrx_word' id='word_1_1' title='bbox 854 2780 927 2785; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 724 2791 1175 2822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 724 2791 1175 2822">
+     <span class='ocr_line' id='line_1_2' title="bbox 724 2791 1175 2822; baseline -0.02 -1"><span class='ocrx_word' id='word_1_2' title='bbox 724 2799 839 2822; x_wconf 55' lang='lat' dir='ltr'>mundun:</span> <span class='ocrx_word' id='word_1_3' title='bbox 854 2795 955 2819; x_wconf 77' lang='lat' dir='ltr'>Priutcd</span> <span class='ocrx_word' id='word_1_4' title='bbox 968 2794 998 2821; x_wconf 75' lang='lat' dir='ltr'>hy</span> <span class='ocrx_word' id='word_1_5' title='bbox 1009 2794 1037 2816; x_wconf 89' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1051 2791 1175 2817; x_wconf 71' lang='lat' dir='ltr'>nmmum,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 802 2821 1113 2851">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 802 2821 1113 2851">
+     <span class='ocr_line' id='line_1_3' title="bbox 802 2821 1113 2851; baseline -0.019 -4"><span class='ocrx_word' id='word_1_7' title='bbox 802 2823 935 2851; x_wconf 72' lang='lat' dir='ltr'>neu-yanl,</span> <span class='ocrx_word' id='word_1_8' title='bbox 946 2821 1113 2850; x_wconf 73' lang='lat' dir='ltr'>Temple-bar.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
